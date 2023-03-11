@@ -22,3 +22,4 @@ def show_story(story_number):
     # https://flask.palletsprojects.com/en/2.2.x/quickstart/#variable-rules
     # LOGIC to show story with given `story_number` (which is a integer)
     return f"DETAIL STORY - story number {story_number}"
+
